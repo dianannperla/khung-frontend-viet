@@ -1,6 +1,6 @@
 {
   "name": "khung-frontend-viet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Khung Frontend Việt giúp lập trình viên phát triển ứng dụng web dễ dàng hơn.",
   "main": "index.js",
   "scripts": {
