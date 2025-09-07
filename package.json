@@ -1,0 +1,18 @@
+{
+  "name": "khung-frontend-viet",
+  "version": "1.0.0",
+  "description": "Khung Frontend Việt giúp lập trình viên phát triển ứng dụng web dễ dàng hơn.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bạn",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3"
+  }
+}
